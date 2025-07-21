@@ -13,8 +13,27 @@ This project involves **data analysis** on a comprehensive **banking dataset** u
 
 ---
 
-## Project Screenshots
-https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/blob/main/Banking%20Dataset%201.png
+## 🖼️ Screenshots
+
+Here are a few screenshots showcasing the data and results:
+
+### 1. Database Schema and Table Structure
+
+![Banking Dataset 1](https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/raw/main/Banking%20Dataset%201.png)
+
+### 2. Sample Customer Data
+
+![Banking Dataset 2](https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/raw/main/Banking%20Dataset%202.png)
+
+### 3. Analytical Query Results
+
+![Banking Dataset 3](https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/raw/main/Banking%20Dataset%203.png)
+
+### 4. Loan and CreditCard Analysis
+
+![Banking Dataset 4](https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/raw/main/Banking%20Dataset%204.png)
+
+---
 
 ## 🧱 Database Schema Overview
 
@@ -67,8 +86,8 @@ Each table was populated using CSV files uploaded into MySQL.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mybank-sql.git
-   cd mybank-sql
+   git clone https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL.git
+   cd Bank-Dataset-Analysis-in-SQL
    ```
 
 2. Open MySQL Workbench, phpMyAdmin, or any SQL client.
@@ -78,8 +97,6 @@ Each table was populated using CSV files uploaded into MySQL.
    ```sql
    SOURCE path_to_script.sql;
    ```
-
-4. Begin querying!
 
 ---
 
@@ -91,20 +108,3 @@ Each table was populated using CSV files uploaded into MySQL.
 
 ---
 
-## 📜 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-## 🙌 Contributions
-
-Contributions are welcome! Feel free to:
-
-* Suggest or add new queries
-* Improve schema design
-* Add data visualization support
-
----
-
-Would you like me to export this as a `README.md` file or format it for direct upload to your GitHub repo?
