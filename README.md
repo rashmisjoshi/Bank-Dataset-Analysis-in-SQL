@@ -13,6 +13,9 @@ This project involves **data analysis** on a comprehensive **banking dataset** u
 
 ---
 
+## Project Screenshots
+https://github.com/rashmisjoshi/Bank-Dataset-Analysis-in-SQL/blob/main/Banking%20Dataset%201.png
+
 ## 🧱 Database Schema Overview
 
 The project contains the following tables:
